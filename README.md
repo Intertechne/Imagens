@@ -2,6 +2,6 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/itt.png">
+  <source srcset="/itt.png">
 </picture>
 
