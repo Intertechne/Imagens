@@ -2,6 +2,6 @@
 
 
 <picture>
-  <source srcset="/itt.png">
+  <img alt="ITT" src="/itt.png">
 </picture>
 
