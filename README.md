@@ -1,5 +1,6 @@
-# Imagens - INTERTECHNE
+# Galeria de Imagens
 
+### INTERTECHNE - Logo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/itt.png">
   <source media="(prefers-color-scheme: light)" srcset="/45.jpg">
