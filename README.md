@@ -14,7 +14,7 @@
 </picture>
 
 <picture>
-  <img alt="ITT_4" src="/ITT_4.jpg">
+  <img alt="ITT_4" src="/ITT_4.png">
 </picture>
 
 <picture>
