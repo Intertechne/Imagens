@@ -10,7 +10,7 @@
 </picture>
 
 <picture>
-  <img alt="ITT_3" src="/ITT_3.jfif>
+  <img alt="ITT_3" src="/ITT_3.png>
 </picture>
 
 <picture>
