@@ -20,3 +20,7 @@
 <picture>
   <img alt="ITT_5" src="/ITT_5.png">
 </picture>
+
+<picture>
+  <img alt="ITT_750x750" src="/ITT_750x750.png">
+</picture>
