@@ -2,7 +2,7 @@
 
 
 <picture>
-  <a>Imagem 1</a>
-  <img alt="ITT" src="/itt.png">
+  <img alt="ITT" src="/ITT.png">
+  <img alt="ITT_2" src="/ITT_2.jpg">
 </picture>
 
